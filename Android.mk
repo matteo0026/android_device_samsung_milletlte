@@ -1,4 +1,4 @@
-ifneq ($(filter matissewifi,$(TARGET_DEVICE)),)
+ifneq ($(filter milletlte,$(TARGET_DEVICE)),)
 
 LOCAL_PATH := device/samsung/milletlte/
 
