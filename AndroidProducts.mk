@@ -1,1 +1,1 @@
-PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_milletlte.mk
+PRODUCT_MAKEFILES := device/samsung/milletlte/omni_milletlte.mk
